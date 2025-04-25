@@ -4,13 +4,21 @@
     {
         static void Main(string[] args)
         {
-            //  Getting the name, age and height of the user
+            // Kullanici bilgilerini alma islemi baslatilir (name, age, height)
+
+            // Kullaniciya isim sorulur ve string olarak alinir
             Console.Write("Your Name: ");
             string name = Console.ReadLine();
+
+            // Kullaniciya yas sorulur, girilen deger int'e cevrilir
             Console.Write("Your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Your heiht: ");
+
+            // Kullaniciya boy bilgisi sorulur, float olarak okunur
+            Console.Write("Your height: ");  
             float height = float.Parse(Console.ReadLine());
+
+            // Alinan bilgileri formatli sekilde ekrana yazdirir
             Console.WriteLine("Your name: " + name + " - Your Age: " + age + " - Your Height: " + height);
 
             Console.Read();
