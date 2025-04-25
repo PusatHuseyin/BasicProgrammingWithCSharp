@@ -15,7 +15,7 @@
             const double PI = 3.14159; // Sabit degisken tanimlamasi, degeri degistirilemez
             Console.WriteLine(PI);
 
-            // PI = 3114; // X HATA: const ile tanimlanan degiskenler degistirilemez
+            // PI = 3114; // HATA: const ile tanimlanan degiskenler degistirilemez
                        // const degiskenler tanimlandiklari anda deger alirlar ve sonradan degerleri degistirilemez
         }
     }
