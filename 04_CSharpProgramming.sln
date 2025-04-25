@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01_FirstProject", "C01_Fir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02_BasicCSharp", "C02_BasicCSharp\C02_BasicCSharp.csproj", "{6AC629E5-1815-44D8-BB80-021E016F65CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_UserInputAndOutput", "03_UserInputAndOutput\03_UserInputAndOutput.csproj", "{0A4D1DFD-13DD-4AF5-A68E-AAD990006E6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_UserInputAndOutput", "03_UserInputAndOutput\C03_UserInputAndOutput.csproj", "{0A4D1DFD-13DD-4AF5-A68E-AAD990006E6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
