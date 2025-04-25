@@ -6,6 +6,7 @@ namespace C02_BasicCSharp
     {
         static void Main(string[] args)
         {
+            // ----- Data Types -----
             // Farkli veri tiplerinde degisken tanimlama ve baslangic deger atama
             // Format: degiskenTipi degiskenAdi = degiskenDegeri;
             char character = 'c';           //  karakter - 2 byte
