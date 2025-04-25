@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             //  Getting the name, age and height of the user
-
             Console.Write("Your Name: ");
             string name = Console.ReadLine();
             Console.Write("Your age: ");
