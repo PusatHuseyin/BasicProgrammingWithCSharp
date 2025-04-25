@@ -9,7 +9,6 @@ namespace C03_UserInputAndOutput
             // Konsolu temizler, onceki ciktilari siler
             Console.Clear();
 
-            // Giris mesaji yazdirilir
             Console.WriteLine("Welcome to the Input/Output Demo!");
             Console.WriteLine("---------------------------------\n");
 
