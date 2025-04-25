@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02_BasicCSharp", "C02_Basi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C05_OtherTypes", "C05_OtherTypes\C05_OtherTypes.csproj", "{002498A1-602B-40EC-8B36-8F43A03B756E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_MathOperations", "C06_MathOperations\C06_MathOperations.csproj", "{EE4AFBCC-7503-4DAB-8388-47D785E13EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{002498A1-602B-40EC-8B36-8F43A03B756E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{002498A1-602B-40EC-8B36-8F43A03B756E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{002498A1-602B-40EC-8B36-8F43A03B756E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4AFBCC-7503-4DAB-8388-47D785E13EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4AFBCC-7503-4DAB-8388-47D785E13EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4AFBCC-7503-4DAB-8388-47D785E13EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4AFBCC-7503-4DAB-8388-47D785E13EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
