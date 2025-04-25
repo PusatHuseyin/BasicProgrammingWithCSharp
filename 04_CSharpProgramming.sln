@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02_BasicCSharp", "C02_Basi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_InputOutputExample", "C04_InputOutputExample\C04_InputOutputExample.csproj", "{9D736B85-BBF5-4484-910E-7BBA1BDD20DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_UserInput&Output", "C03_UserInput&Output\C03_UserInput&Output.csproj", "{C88F8A51-EF0D-4317-9FC9-3C27C66A2FC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9D736B85-BBF5-4484-910E-7BBA1BDD20DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D736B85-BBF5-4484-910E-7BBA1BDD20DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D736B85-BBF5-4484-910E-7BBA1BDD20DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F8A51-EF0D-4317-9FC9-3C27C66A2FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F8A51-EF0D-4317-9FC9-3C27C66A2FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F8A51-EF0D-4317-9FC9-3C27C66A2FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F8A51-EF0D-4317-9FC9-3C27C66A2FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
