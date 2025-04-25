@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Runtime.InteropServices; // Disaridaki DLL kutuphaneleri ve platformlar arasi kod cagirma islemleri icin gerekli
+
 namespace C02_BasicCSharp
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {

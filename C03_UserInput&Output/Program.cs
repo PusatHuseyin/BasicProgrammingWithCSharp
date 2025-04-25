@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Temel sistem kutuphanesini projeye dahil eder (Console islemleri gibi)
 
 namespace C03_UserInputAndOutput
 {
