@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C15_AlgorithmAnalysisWithGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C16_ControlStructuresIfElse", "C16_ControlStructuresIfElse\C16_ControlStructuresIfElse.csproj", "{93CA430F-9B24-42F8-B499-BAFD449E99D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C17_IfElseExample", "C17_IfElseExample\C17_IfElseExample.csproj", "{49DDBD82-D9A2-436F-90A9-1A2DB9F2707F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{93CA430F-9B24-42F8-B499-BAFD449E99D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93CA430F-9B24-42F8-B499-BAFD449E99D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93CA430F-9B24-42F8-B499-BAFD449E99D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DDBD82-D9A2-436F-90A9-1A2DB9F2707F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DDBD82-D9A2-436F-90A9-1A2DB9F2707F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DDBD82-D9A2-436F-90A9-1A2DB9F2707F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DDBD82-D9A2-436F-90A9-1A2DB9F2707F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
