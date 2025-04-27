@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_AssignmentOperators", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_IncrementDecrementOperations", "C08_IncrementDecrementOperations\C08_IncrementDecrementOperations.csproj", "{880CB9E1-F34E-42B5-B2D4-2749AC6FFB23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C09_AreaAndPerimeterExample", "C09_AreaAndPerimeterExample\C09_AreaAndPerimeterExample.csproj", "{381490F7-1D76-4C1C-9DC9-51E3C2641B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10_CircleAreaPerimeter", "C10_CircleAreaPerimeter\C10_CircleAreaPerimeter.csproj", "{47D225C1-BF4D-46D9-BC9D-F8A8A2FE3497}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{880CB9E1-F34E-42B5-B2D4-2749AC6FFB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880CB9E1-F34E-42B5-B2D4-2749AC6FFB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880CB9E1-F34E-42B5-B2D4-2749AC6FFB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381490F7-1D76-4C1C-9DC9-51E3C2641B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381490F7-1D76-4C1C-9DC9-51E3C2641B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381490F7-1D76-4C1C-9DC9-51E3C2641B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381490F7-1D76-4C1C-9DC9-51E3C2641B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D225C1-BF4D-46D9-BC9D-F8A8A2FE3497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D225C1-BF4D-46D9-BC9D-F8A8A2FE3497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D225C1-BF4D-46D9-BC9D-F8A8A2FE3497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D225C1-BF4D-46D9-BC9D-F8A8A2FE3497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
