@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C12_MathClass", "C12_MathCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C13_DigitsSumOfNumber", "C13_DigitsSumOfNumber\C13_DigitsSumOfNumber.csproj", "{9269B975-FA17-46BA-9BE1-F16A03E41423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C14_SwapUsingTemp", "C14_SwapUsingTemp\C14_SwapUsingTemp.csproj", "{BF767FEB-4D21-4BD9-9375-C3AFCA965020}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9269B975-FA17-46BA-9BE1-F16A03E41423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9269B975-FA17-46BA-9BE1-F16A03E41423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9269B975-FA17-46BA-9BE1-F16A03E41423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF767FEB-4D21-4BD9-9375-C3AFCA965020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF767FEB-4D21-4BD9-9375-C3AFCA965020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF767FEB-4D21-4BD9-9375-C3AFCA965020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF767FEB-4D21-4BD9-9375-C3AFCA965020}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
