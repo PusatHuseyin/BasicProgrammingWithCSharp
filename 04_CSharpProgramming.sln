@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C18_OddEvenNumber", "C18_Od
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C19_Calculator", "C19_Calculator\C19_Calculator.csproj", "{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C20_If_Else_IfElse_Example", "C20_If_Else_IfElse_Example\C20_If_Else_IfElse_Example.csproj", "{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
