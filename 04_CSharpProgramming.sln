@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C17_IfElseExample", "C17_If
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C18_OddEvenNumber", "C18_OddEvenNumber\C18_OddEvenNumber.csproj", "{8006B761-3B27-4EE4-826C-B567D32552F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C19_Calculator", "C19_Calculator\C19_Calculator.csproj", "{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{8006B761-3B27-4EE4-826C-B567D32552F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8006B761-3B27-4EE4-826C-B567D32552F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8006B761-3B27-4EE4-826C-B567D32552F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDAAAE2-5C94-46E1-853F-C998B0843DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
