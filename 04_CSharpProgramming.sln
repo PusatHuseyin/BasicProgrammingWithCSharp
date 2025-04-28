@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C19_Calculator", "C19_Calcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C20_If_Else_IfElse_Example", "C20_If_Else_IfElse_Example\C20_If_Else_IfElse_Example.csproj", "{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C21_SwitchCase", "C21_SwitchCase\C21_SwitchCase.csproj", "{04CEBB69-FF1E-47EB-8BC8-29D25F4AFE22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE834E0-3600-4BE5-9A9B-4A17FA1446C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CEBB69-FF1E-47EB-8BC8-29D25F4AFE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CEBB69-FF1E-47EB-8BC8-29D25F4AFE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CEBB69-FF1E-47EB-8BC8-29D25F4AFE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CEBB69-FF1E-47EB-8BC8-29D25F4AFE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
