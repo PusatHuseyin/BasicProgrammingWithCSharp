@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C22_DepartmentSalaryExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C23_ClassSectionStudentCount", "C23_ClassSectionStudentCount\C23_ClassSectionStudentCount.csproj", "{858BDD58-27C1-43F8-B292-5DBEF1FE8AEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C24_While", "C24_While\C24_While.csproj", "{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{858BDD58-27C1-43F8-B292-5DBEF1FE8AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{858BDD58-27C1-43F8-B292-5DBEF1FE8AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{858BDD58-27C1-43F8-B292-5DBEF1FE8AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
