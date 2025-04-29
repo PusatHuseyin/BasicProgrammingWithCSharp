@@ -41,6 +41,8 @@ namespace C27_SumBetweenTwoNumbers
 
             // 2. yontem: tek bir donguyle iki sekilde de topla
             int loopCount = num3 - num4;
+            int loopCount2 = Math.Abs(num3 - num4) + 1;
+            Console.WriteLine("loopCount: " + loopCount2); 
             int total2 = 0;
 
             // negatif fark varsa pozitif yap
