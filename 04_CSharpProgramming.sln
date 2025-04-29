@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C23_ClassSectionStudentCoun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C24_While", "C24_While\C24_While.csproj", "{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C25_MultiplicationTable", "C25_MultiplicationTable\C25_MultiplicationTable.csproj", "{0EA6D644-5A1C-4A8C-9F3E-59C275747CEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C501099-BBB5-4C67-90CC-5A3CAB8AA3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA6D644-5A1C-4A8C-9F3E-59C275747CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA6D644-5A1C-4A8C-9F3E-59C275747CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA6D644-5A1C-4A8C-9F3E-59C275747CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA6D644-5A1C-4A8C-9F3E-59C275747CEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
