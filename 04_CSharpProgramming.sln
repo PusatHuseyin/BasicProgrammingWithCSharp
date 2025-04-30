@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C29_DoWhile", "C29_DoWhile\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C30_RestaurantMenu", "C30_RestaurantMenu\C30_RestaurantMenu.csproj", "{E06C0B4C-2DBA-4268-BF5E-76D8D0F255B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C31_EbobEkok", "C31_EbobEkok\C31_EbobEkok.csproj", "{1052C451-0A5F-4FE5-A474-BC21340C9DAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{E06C0B4C-2DBA-4268-BF5E-76D8D0F255B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E06C0B4C-2DBA-4268-BF5E-76D8D0F255B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E06C0B4C-2DBA-4268-BF5E-76D8D0F255B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1052C451-0A5F-4FE5-A474-BC21340C9DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1052C451-0A5F-4FE5-A474-BC21340C9DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1052C451-0A5F-4FE5-A474-BC21340C9DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1052C451-0A5F-4FE5-A474-BC21340C9DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
