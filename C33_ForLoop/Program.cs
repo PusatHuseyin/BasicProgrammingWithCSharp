@@ -23,7 +23,7 @@
             {
                 Console.WriteLine(j);
             }
-            Console.WriteLine("End j:" + j);
+            Console.WriteLine("End j =" + j);
             Console.Read();
         }
     }
