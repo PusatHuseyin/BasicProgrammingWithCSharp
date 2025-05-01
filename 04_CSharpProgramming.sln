@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C31_EbobEkok", "C31_EbobEko
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C32_ReverseNumber", "C32_ReverseNumber\C32_ReverseNumber.csproj", "{22977A83-33D8-43F2-85EF-CF7806013866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C33_ForLoop", "C33_ForLoop\C33_ForLoop.csproj", "{E3A8060A-710C-45FD-B938-1E2082908383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{22977A83-33D8-43F2-85EF-CF7806013866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22977A83-33D8-43F2-85EF-CF7806013866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22977A83-33D8-43F2-85EF-CF7806013866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A8060A-710C-45FD-B938-1E2082908383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A8060A-710C-45FD-B938-1E2082908383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A8060A-710C-45FD-B938-1E2082908383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A8060A-710C-45FD-B938-1E2082908383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
